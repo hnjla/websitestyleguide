@@ -1,0 +1,80 @@
+/* Universal Styles */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+/* Title Section */
+
+/* Colors Section */
+
+.color-box {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+    color: #fff;
+}
+
+.pink {
+    background-color: #d957d9;
+    color: #fff;
+}
+
+.green {
+    background-color: #4fe0b0;
+    color:#fff;
+}
+
+.beige {
+    background-color:#efd9ca;
+    color:#fff;
+}
+
+/* Fonts Section */
+
+.font-box {
+    display: inline-block;
+    width: 45%;
+}
+
+.segou-ui {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-label {
+    text-decoration: underline;
+}
+
+/* Text Styles Section */
+
+li {
+    display: list-item;
+}
